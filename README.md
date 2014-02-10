@@ -5,8 +5,7 @@ Written by Jeremy Georges
 Release 1.0
 
 ## Dependencies
-* [pywws][id]
-    [id]: http://jim-easterbrook.github.io/pywws/doc/en/html/index.html "pywws" 
+* [pywws] (http://jim-easterbrook.github.io/pywws/doc/en/html/index.html "pywws")
 * Ambient Weather Station -  WS-2080
 
 ## Description
