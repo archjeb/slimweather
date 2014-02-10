@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # slimweather - A Small, Simple, Data pull from a weather station and Push to Wunderground
 
 Written by Jeremy Georges 
@@ -7,7 +6,7 @@ Release 1.0
 
 ## Dependencies
 * [pywws][id]
-    [id] http://jim-easterbrook.github.io/pywws/doc/en/html/index.html "pywws" 
+    [id]: http://jim-easterbrook.github.io/pywws/doc/en/html/index.html "pywws" 
 * Ambient Weather Station -  WS-2080
 
 ## Description
